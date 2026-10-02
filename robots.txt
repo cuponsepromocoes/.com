@@ -1,3 +1,0 @@
-User-agent: * Allow: /
-
-Sitemap: https://cuponsepromocoes.net.br/sitemap.xml
