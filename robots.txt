@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+# Aponta diretamente para o sitemap atualizado
+Sitemap: https://cuponsepromocoes.net.br/sitemap.xml
