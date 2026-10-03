@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+  
+  <!-- Página Principal -->
+  <url>
+    <loc>https://cuponsepromocoes.net.br/</loc>
+    <lastmod>2026-10-02</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+    
+    <!-- Imagens para Indexação SEO -->
+    <image:image>
+      <image:loc>https://cuponsepromocoes.net.br/favicon-logo.png</image:loc>
+      <image:title>Cupons e Promoções Logo</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://cuponsepromocoes.net.br/cupons-mercado-livre.jpg</image:loc>
+      <image:title>Cupons de desconto Mercado Livre ativos hoje</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://cuponsepromocoes.net.br/novos-cupons-mercado-livre.jpg</image:loc>
+      <image:title>Novos cupons de desconto Mercado Livre</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://cuponsepromocoes.net.br/cupom-disponivel.jpg</image:loc>
+      <image:title>Cupom disponível Mercado Livre</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://cuponsepromocoes.net.br/cupom-100-de-desconto-mercado-livre.jpg</image:loc>
+      <image:title>Cupom de desconto R$ 100 Mercado Livre</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://cuponsepromocoes.net.br/cupons-de-descontos.jpg</image:loc>
+      <image:title>Cupons de desconto Shopee</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://cuponsepromocoes.net.br/resgate-seus-cupons-pelo-link.jpg</image:loc>
+      <image:title>Resgate cupons Shopee pelo link</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://cuponsepromocoes.net.br/shopee-dia-de-cupom-pix.jpg</image:loc>
+      <image:title>Shopee R$15 OFF e frete grátis</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://cuponsepromocoes.net.br/shopee-primeira-compra-50off.jpg</image:loc>
+      <image:title>Cupom primeira compra Shopee 50% OFF</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://cuponsepromocoes.net.br/shopee-resgate-cupons-20off.jpg</image:loc>
+      <image:title>Cupons Shopee até 20% OFF</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://cuponsepromocoes.net.br/shopee-cupons-diarios.jpg</image:loc>
+      <image:title>Cupons diários Shopee</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://cuponsepromocoes.net.br/shopee-cupom-10-off.jpg</image:loc>
+      <image:title>Cupom R$10 OFF Shopee</image:title>
+    </image:image>
+  </url>
+
+</urlset>
